@@ -1,0 +1,28 @@
+name: Seattle Fitness
+favicon: null
+layout_spectrum: 0.34288295917212963
+typography_spectrum: 0.6321904161013663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.04664599150419235
+  lightness: 0.2619668391998857
+  saturation: 0.8609034449327737
+  rhythmicContrast: 0.31479058880358934
+purpose: []
